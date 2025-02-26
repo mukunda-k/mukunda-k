@@ -44,7 +44,7 @@
 
 ### 🤝 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/kommineni-mukunda-64453a325/">
+  <a href="https://www.linkedin.com/in/kommineni-mukunda-64453a325/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
  
   <a href="mailto:mukundakommineni@gmail.com">
